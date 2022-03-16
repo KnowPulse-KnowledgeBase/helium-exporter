@@ -22,9 +22,9 @@ why: "This lesson is aiming to guide our pulse crop researchers through the proc
 # A short list of items researchers will learn in this lesson.
 learn:
 - "How to install and configure Helium Exporter"
-- "How to export your data from KnowPulse"
+- "How to export your data from KnowPulse into Helium Exporter"
 - "How to load your data into Helium Exporter"
-- "How to visualize your data"
+- "How to visualize your data with Helium Exporter"
 
 data-description: "Phenotypic Data"
 ---
