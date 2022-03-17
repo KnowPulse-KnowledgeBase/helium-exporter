@@ -3,17 +3,17 @@ title: "How to download your pedigree and categorical data from KnowPulse"
 teaching: 10
 exercises: 10
 questions:
-- "______"
-- "______?"
-- ""______"
-objectives:
-- "______"
-keypoints:
-- "______."
-- "______"
-- "______"
----
+- "How to download and install Helium?"
+- "_______"
+- "_________"
 
+objectives:
+- "__________"
+keypoints:
+- "__________."
+- "__________."
+- "__________."
+---
 ## How to download your pedigree and categorical data 
 
 Pedigree and categorical data can be downloaded from Helium Exporter module (missing link)(requires log in to access).
