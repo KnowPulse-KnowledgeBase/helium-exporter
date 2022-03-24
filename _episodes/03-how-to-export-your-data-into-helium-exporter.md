@@ -3,9 +3,8 @@ title: "How to export your data into Helium Exporter"
 teaching: 10
 exercises: 10
 questions:
-- "________"
-- "________"
-- "________"
+- "How to export both the pedigree file and categorical file into Helium Exporter?"
+
 objectives:
 - "Providing a step by step demonstration on how to export both the pedigree file and the categorical file from your local computer to Helium Exporter"
 keypoints:
@@ -18,9 +17,13 @@ keypoints:
 
 1. Open the Helium Exporter from your local computer. 
 
-2. Both your pedigree and categorical data files should be uploaded into Helium Exporter from the Overview Panel as shown in the screenshot. 
-![Load-data-into-helium](https://user-images.githubusercontent.com/45402954/158891096-d66b83b8-38e4-434b-ae0d-fa3c76cf11ea.png)
+2. First, let us upload the pedigree file from your local computer into Helium Exporter from the Overview Panel as shown in the screenshot. 
+![Load_pedigree_into_He](https://user-images.githubusercontent.com/45402954/160011062-859cd2c9-81db-408c-9586-2fe918798bbd.png)
+ Pedigree file allows you to view pedigree relationship between germplasm in Main Pedigree Visualization Panel.
+[Missing demo screenshot]
 
-3. Pedigree file allows you to view pedigree relationship between germplasm in Main Pedigree Visualization Panel.
-4. Categorical file allows you to view traits in both Data Selection Overview Panel and Detail Panel. 
-![Pedigree_and_categorical](https://user-images.githubusercontent.com/45402954/159816981-0163b053-742a-4c47-b4ce-66b1ee896566.png)
+3. Then, let us repeat the same step with categorical file.
+![Load_categorical_into_He](https://user-images.githubusercontent.com/45402954/160011801-22ed37a3-5bf0-4c58-b92f-2b59f040db7f.png)
+
+ Categorical file allows you to view traits in both Data Selection Overview Panel and Detail Panel. 
+[Missing demo screenshot]
