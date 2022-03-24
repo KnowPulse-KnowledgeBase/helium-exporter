@@ -17,7 +17,7 @@ maintainers: "Reynold Tan, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "This lesson is aiming to guide our pulse crop researchers through the procedure of Helium Exporter peidgree visualizing. Helium Exporter module can be used to visualize your pedigree to guide or predict ___ growing season. "
+why: "This lesson is aiming to guide our pulse crop researchers through the procedure of Helium Exporter peidgree visualizing. Helium Exporter module can be used to as a computational tools to visualize your pedigree structure. This visualization tool will help breeders achieving their breeding goals."
 
 # A short list of items researchers will learn in this lesson.
 learn:
