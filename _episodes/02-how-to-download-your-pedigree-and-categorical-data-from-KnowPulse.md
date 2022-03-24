@@ -20,9 +20,15 @@ Pedigree and categorical data from your registered experiment(s) can be download
  
 2. The next section is the **Germplasm/lines selector with search functionality**.  In this section, on your left hand side, there is a germplasm field button. In the screenshot for example, there are ### germplasm available for you to view. On your right hand side, in the field control, you can either use **Search** to look for a specific germplasm from the field, or click on **All** to select the full dataset. 
 
+[Missing screenshot]
+
 3. Followed by the germplasm section is the the **Trait/categorical data selector with search functionality**. Again, on your left hand side, there is a trait search field button. From the screenshot example, there are ### traits available for your to view. On your right hand side, in the field control, you can either use **Search** to look for a specific trait from the field, or click on **All** to select all the available traits.
 
 4. Below the **Trait** section, there is an additional filter called **Parental Relationships Only** for you to choose to view only the maternal and parental relationships. 
 
-5. Finally, click on the **Download** button to sumbit your request. Helium from there will reture the files for you. One is a pedigree file, the other is a categorical file. Downloaded results can be cross checked in a .txt file when you choose to open it in a new window tab [Need help from Reynold]. Click on both files to save them onto your local computer. In the next episode, we will learn how to export these two files into your Helium Exporter.
+[Missing screenshot]
+
+5. Finally, click on the **Download** button to sumbit your request. Helium from there will reture the files for you. One is a pedigree file, the other is a categorical file. Downloaded results can be cross checked in a .txt file when you choose to open it in a new window tab [Need help from Reynold].
+[Missing screenshot]
+ Click on both files to save them onto your local computer. In the next episode, we will learn how to export these two files into your Helium Exporter.
 ![Download-page](https://user-images.githubusercontent.com/45402954/158888837-2e64883c-0afa-4b38-bda2-5fe25ebf00a9.png)
