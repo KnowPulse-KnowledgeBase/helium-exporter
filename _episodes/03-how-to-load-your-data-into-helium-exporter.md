@@ -23,3 +23,4 @@ keypoints:
 
 3. Pedigree file allows you to view pedigree relationship between germplasm in Main Pedigree Visualization Panel.
 4. Categorical file allows you to view traits in both Data Selection Overview Panel and Detail Panel. 
+![Pedigree_and_categorical](https://user-images.githubusercontent.com/45402954/159816981-0163b053-742a-4c47-b4ce-66b1ee896566.png)
