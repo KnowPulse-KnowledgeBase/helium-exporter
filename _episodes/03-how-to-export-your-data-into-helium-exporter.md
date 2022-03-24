@@ -1,5 +1,5 @@
 ---
-title: "How to load your data into Helium Exporter"
+title: "How to export your data into Helium Exporter"
 teaching: 10
 exercises: 10
 questions:
@@ -7,14 +7,14 @@ questions:
 - "________"
 - "________"
 objectives:
-- "________"
+- "Providing a step by step demonstration on how to export both the pedigree file and the categorical file from your local computer to Helium Exporter"
 keypoints:
 - "________"
 - "________"
 - "________"
 ---
 
-## How to load your data into Helium Exporter
+## How to export your data into Helium Exporter
 
 1. Open the Helium Exporter from your local computer. 
 
