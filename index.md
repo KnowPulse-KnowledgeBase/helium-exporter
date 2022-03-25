@@ -21,8 +21,8 @@ why: "This lesson is aiming to guide our pulse crop researchers use the Helium D
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to export raw phenotypic data and germplasm usinng Helium Data Exporter"
 - "How to download and install Heliumm Pedigree Visulaization Framework in your computer"
+- "How to export raw phenotypic data and germplasm usinng Helium Data Exporter"
 - "How to load and visualize your pedigree and categorical data into Helium Pedigree Visualization Framework"
 
 # data-description: 
