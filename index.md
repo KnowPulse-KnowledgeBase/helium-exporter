@@ -3,31 +3,31 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "Lesson Title"
+title: "How to use KnowPulse Helium Exporter to downnload pedigree and categorical data and for visualization using Helium Pediree Visualization Framework"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to visualize large-scale germplasm pedigree and phenotypic data with Helium Pedigree Visualization Framework."
+short-purpose: "This lesson will show you how to export raw phenotypic data and germplasm for visualization using Helium Pedigree Visualization Framework."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
 who: "Pulse Crop Researchers focused on variation data."
 
 # A comma-separated list of maintainers for this lesson.
-maintainers: "Reynold Tan, Ruobin Liu"
+maintainers: "Ruobin Liu and Reynold Tan"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "This lesson is aiming to guide our pulse crop researchers through the procedure of Helium Exporter visualizing. Helium Exporter module can be used as a computational tools to visualize your pedigree structure. This visualization tool will help breeders making better decision as well as meeting their breeding goals."
+why: "This lesson is aiming to guide our pulse crop researchers use the Helium Data Exporter and setup Helium Pedigree Visulization Framework.Helium Pedigree Visualization Framework can be used for visualization of large-scale plant pedigrees and overlay categorical, numerical or quantitative data. This visualization tool will help improve breeders ability to predict and visualize the inheritance of genes to make better decisions."
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to install and configure Helium Exporter"
-- "How to download your pedigree and categorical data from KnowPulse"
-- "How to load your data into Helium Exporter"
-- "How to visualize your data with Helium Exporter"
+- "How to export raw phenotypic data and germplasm usinng Helium Data Exporter"
+- "How to download and install Heliumm Pedigree Visulaization Framework in your computer"
+- "How to load and visualize your pedigree and categorical data into Helium Pedigree Visualization Framework"
 
-data-description: "Phenotypic Data"
----
+# data-description: 
+- "Raw phenotypic data"
+- "Germplasm data"
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
 
