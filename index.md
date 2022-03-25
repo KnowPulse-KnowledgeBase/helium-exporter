@@ -25,9 +25,8 @@ learn:
 - "How to export raw phenotypic data and germplasm usinng Helium Data Exporter"
 - "How to load and visualize your pedigree and categorical data into Helium Pedigree Visualization Framework"
 
-# data-description: 
-- "Raw phenotypic data"
-- "Germplasm data"
+data-description: "Raw phenotypic data and Germplasm data."
+---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
 
