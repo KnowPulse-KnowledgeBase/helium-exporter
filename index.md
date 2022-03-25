@@ -6,7 +6,7 @@ root: .
 title: "Lesson Title"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to visualize large scale germplasm pedigree and phenotypic data with helium pedigree visualization application."
+short-purpose: "This lesson will show you how to visualize large-scale germplasm pedigree and phenotypic data with Helium pedigree visualization application."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
