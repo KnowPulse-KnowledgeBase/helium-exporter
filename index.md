@@ -17,12 +17,12 @@ maintainers: "Ruobin Liu and Reynold Tan"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "This lesson is aiming to guide our pulse crop researchers use the Helium Data Exporter and setup Helium Pedigree Visulization Framework.Helium Pedigree Visualization Framework can be used for visualization of large-scale plant pedigrees and overlay categorical, numerical or quantitative data. This visualization tool will help improve breeders ability to predict and visualize the inheritance of genes to make better decisions."
+why: "This lesson is aiming to guide our pulse crop researchers use the Helium Data Exporter and setup Helium Pedigree Visulization Framework. Helium Pedigree Visualization Framework can be used for visualization of large-scale plant pedigrees and overlay categorical, numerical or quantitative data. This visualization tool will help improve breeders ability to predict and visualize the inheritance of genes to make better decisions."
 
 # A short list of items researchers will learn in this lesson.
 learn:
 - "How to download and install Heliumm Pedigree Visulaization Framework in your computer"
-- "How to export raw phenotypic data and germplasm usinng Helium Data Exporter"
+- "How to export raw phenotypic data and germplasm using Helium Data Exporter"
 - "How to load and visualize your pedigree and categorical data into Helium Pedigree Visualization Framework"
 
 data-description: "Raw phenotypic data and Germplasm data."
