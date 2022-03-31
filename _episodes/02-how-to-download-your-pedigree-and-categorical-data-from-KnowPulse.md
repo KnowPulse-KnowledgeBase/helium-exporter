@@ -13,7 +13,7 @@ keypoints:
 ---
 ## How to download your pedigree and categorical data 
 
-Pedigree and categorical data from your registered experiment(s) can be downloaded from [Helium Exporter module] (https://knowpulse.usask.ca/helium-exporter)(requires log in to access).
+Pedigree and categorical data from your registered experiment(s) can be downloaded from [Helium Exporter module](https://knowpulse.usask.ca/helium-exporter)(requires log in to access).
 
 
 1. Select an experiment of your interest from the **Experiment** selector. You have to the user of an experiment before you can access the data under it.
