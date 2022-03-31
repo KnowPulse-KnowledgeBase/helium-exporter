@@ -18,12 +18,12 @@ keypoints:
 1. Open the Helium Exporter from your local computer. 
 
 2. First, let us upload the pedigree file from your local computer into Helium Exporter from the Overview Panel for visualization. [Add more description based on screenshot]
-![Load_pedigree_into_He](https://user-images.githubusercontent.com/45402954/160011062-859cd2c9-81db-408c-9586-2fe918798bbd.png)
+![Screenshot of main code listing](../fig/helium-exporter-5.png)
  Pedigree file allows you to view pedigree relationship between germplasm in Main Pedigree Visualization Panel.
 [Missing demo screenshot]
 
 3. Then, let us repeat the same step with categorical file to view the traits.
-![Load_categorical_into_He](https://user-images.githubusercontent.com/45402954/160011801-22ed37a3-5bf0-4c58-b92f-2b59f040db7f.png)
+![Screenshot of main code listing](../fig/helium-exporter-6.png)
 
  Categorical file allows you to view traits in both Data Selection Overview Panel and Detail Panel. 
 [Missing demo screenshot]
