@@ -18,7 +18,7 @@ Pedigree and categorical data from your registered experiment(s) can be download
 
 1. Select an experiment of your interest from the **Experiment** selector. You have to the user of an experiment before you can access the data under it.
  
-2. The next section is the **Germplasm/lines selector with search functionality**.  In this section, on your left hand side, there is a germplasm field button. In the screenshot for example, there are ### germplasm available for you to view. On your right hand side, in the field control, you can either use **Search** to look for a specific germplasm from the field, or click on **All** to select the full dataset. 
+2. The next section is the **Germplasm/lines selector with search functionality**.  In this section, on your left hand side, there is a germplasm field button. In the screenshot for example, there are 50 germplasms available and we are insterested in the 27 of them. On your right hand side, in the field control, you can either use **Search** to look for a specific germplasm from the field, or click on **All** to select the full dataset. 
 
 [Missing screenshot]
 
