@@ -30,6 +30,6 @@ Pedigree and categorical data from your registered experiment(s) can be download
 
 5. Finally, click on the **Download** button to sumbit your request. Helium from there will return the files for you. One is a pedigree file, the other is a categorical file. Downloaded results can be cross checked in a .txt file when you choose to open it in a new window tab [Need help from Reynold].
 [Missing screenshot]
- Click on both files to save them onto your local computer. In the next episode, we will learn how to export these two files into your Helium Exporter.
+ Click on both files to save them onto your local computer. In the next episode, we will learn how to load datasets into the Helium Exporter.
 
 ![Screenshot of main code listing](../fig/helium-exporter-3.png)
