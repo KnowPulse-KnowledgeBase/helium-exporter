@@ -31,6 +31,21 @@ Pedigree and categorical data from your registered experiment(s) can be download
 
 ## How to download your pedigree and categorical data
 
-Helium from there will return two files for you. One is pedigree file, the other is categorical file. Those two datasets can be saved onto your local computer. In the next episode, we will learn how to load datasets into the Helium Exporter.
+Helium from there will return two files for you. One is pedigree file, the other is categorical file. Those two datasets can be saved onto your local computer.
 
-![Screenshot of main code listing](../fig/helium-exporter-3.png) 
+![Screenshot of main code listing](../fig/helium-exporter-3.png)
+
+
+## Load your data into Helium Exporter
+
+1. Open the Helium Exporter from your local computer. 
+
+2. First, let us upload the pedigree file from your local computer into Helium Exporter from the Overview Panel for visualization. [Add more description based on screenshot]
+![Screenshot of main code listing](../fig/helium-exporter-5.png)
+ Pedigree file allows you to view pedigree relationship between germplasm in Main Pedigree Visualization Panel.
+[Missing demo screenshot]
+
+3. Then, let us repeat the same step with categorical file to view the traits.
+![Screenshot of main code listing](../fig/helium-exporter-6.png)
+
+
