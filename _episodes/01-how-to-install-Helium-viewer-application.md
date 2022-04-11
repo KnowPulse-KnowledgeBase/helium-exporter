@@ -21,7 +21,7 @@ When you land on [KnowPulse](https://knowpulse.usask.ca/) homepage, scroll down 
 ## How to download and install Helium Pedigree Visualization Framework
 
 
-To use Helium Data Exporter, you will need to install Helium viewer application in your local computer. Please use the link to select the operating system  [Download and install Helium](https://github.com/cardinalb/helium-docs/wiki/Download-Helium)
+To use Helium Data Exporter, you will need to first install Helium viewer application in your local computer. Please use the link to select the operating system  [Download and install Helium](https://github.com/cardinalb/helium-docs/wiki/Download-Helium)
 
 ![Screenshot of main code listing](../fig/helium-exporter-10.png)
 
