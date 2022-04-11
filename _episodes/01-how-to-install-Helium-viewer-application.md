@@ -15,7 +15,7 @@ keypoints:
 
 ## Navigate to Helium Data Exporter
 
-When you land on [KnowPulse](https://knowpulse.usask.ca/) homepage, scroll down to the data section, click on the [Export to Helium](https://knowpulse.usask.ca/helium-exporter) to access the Helium module. 
+When you land on [KnowPulse](https://knowpulse.usask.ca/) homepage, scroll down to the data section, click on the [Export to Helium](https://knowpulse.usask.ca/helium-exporter) to access the Helium Exporter. 
 ![Screenshot of main code listing](../fig/helium-exporter-9.png)
 
 ## How to download and install Helium Pedigree Visualization Framework
