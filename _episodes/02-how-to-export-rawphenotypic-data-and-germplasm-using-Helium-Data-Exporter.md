@@ -6,12 +6,12 @@ questions:
 - "How to download both pedigree and categorical data through the use of Helium Data Exporter?"
 
 objectives:
-- "Providing a step by step demonstration on how to download both a pedigree file and a caregorical file from an experiment on KnowPulse. "
+- "Providing a step by step demonstration on how to download a pedigree file and a caregorical file from an experiment of interest from KnowPulse. "
 keypoints:
 - "Log in KnowPulse with your user account before download your data."
 - "You can only download pedigree and categorical data from your registered experiment."
 ---
-## How to download your pedigree and categorical data 
+## How to select a specific experiment, germplasm, and trait
 
 Pedigree and categorical data from your registered experiment(s) can be downloaded from [Helium Exporter module](https://knowpulse.usask.ca/helium-exporter)(requires log in to access).
 
@@ -25,11 +25,12 @@ Pedigree and categorical data from your registered experiment(s) can be download
 
 4. Below the **Trait** section, there is an additional filter called **Parental Relationships Only** for you to choose to view only the maternal and parental relationships. 
 
+5. Finally, click on the **Download** button to sumbit your request. 
 
-![Screenshot of main code listing](../fig/helium-exporter-1.png)
+![Screenshot of main code listing](../fig/helium-exporter-11.png)
 
-5. Finally, click on the **Download** button to sumbit your request. Helium from there will return the files for you. One is a pedigree file, the other is a categorical file. Downloaded results can be cross checked in a .txt file when you choose to open it in a new window tab [Need help from Reynold].
-[Missing screenshot]
- Click on both files to save them onto your local computer. In the next episode, we will learn how to load datasets into the Helium Exporter.
+## How to download your pedigree and categorical data
 
-![Screenshot of main code listing](../fig/helium-exporter-3.png)
+Helium from there will return two files for you. One is pedigree file, the other is categorical file. Those two datasets can be saved onto your local computer. In the next episode, we will learn how to load datasets into the Helium Exporter.
+
+![Screenshot of main code listing](../fig/helium-exporter-3.png) 
