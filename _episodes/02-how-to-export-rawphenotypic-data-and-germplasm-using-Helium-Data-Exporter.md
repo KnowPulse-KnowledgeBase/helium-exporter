@@ -31,7 +31,7 @@ Pedigree and categorical data from your registered experiment(s) can be download
 
 ## How to download your pedigree and categorical data
 
-Helium from there will return two files for you. One is for pedigree data, the other is for categorical data. Those two files can be saved onto your local computer.
+Helium from there will return two files for you. One is for pedigree data, the other is for categorical data. Those two files can be saved onto your local computer, followed by load to Helium for visualization.
 
 ![Screenshot of main code listing](../fig/helium-exporter-3.png)
 
