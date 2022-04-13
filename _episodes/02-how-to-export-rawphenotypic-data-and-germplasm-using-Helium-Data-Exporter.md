@@ -11,7 +11,7 @@ keypoints:
 - "Log in KnowPulse with your user account before download your data."
 - "You can only download pedigree and categorical data from your registered experiment."
 ---
-## How to select a specific experiment, germplasm, and trait
+## How to select an experiment, germplasm, and trait
 
 Pedigree and categorical data from your registered experiment(s) can be downloaded from [Helium Exporter module](https://knowpulse.usask.ca/helium-exporter)(requires log in to access).
 
