@@ -16,7 +16,7 @@ keypoints:
 Pedigree and categorical data from your registered experiment(s) can be downloaded from [Helium Exporter module](https://knowpulse.usask.ca/helium-exporter)(requires log in to access).
 
 
-1. Select an experiment of your interest from the **Experiment** selector. You have to be the user of an experiment before you can access any data under it.
+1. Select an experiment of your interest from the **Experiment** selector. (You have to be the user of an experiment before you can access any data under it, talk to us if you have permission issue).
  
 2. The next field is the **Germplasm/lines selector with search functionality**.  From here, on your left hand side, there is a germplasm field button. Germplasm filed supports inline search for a specific germplasm. In the below screenshot, for example, there are 50 germplasms available and we are insterested in the 27 of them. On your right hand side, in the field control, you can either use **Search** to look for a specific germplasm from the field, or click on **All** to select the full dataset. 
 
