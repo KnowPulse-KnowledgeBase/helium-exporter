@@ -31,7 +31,7 @@ Pedigree and categorical data from your registered experiment(s) can be download
 
 ![Screenshot of main code listing](../fig/helium-exporter-11.png)
 
-## Download your pedigree and categorical data
+## Download your pedigree and categorical data files
 
 Helium from there will return you two tab-separated-value files, with the extension name of .helium. One is for pedigree data, the other is for categorical data. It may take the exporter a few seconds to generate the files for you. Those two files can be saved onto your local computer, followed by loaded to Helium for visualization. We will talk more visualization details in the next episode.
 
