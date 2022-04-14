@@ -7,7 +7,7 @@ questions:
 - "How to download and install Helium Pedigree Visualization Framework in your computer?"
 
 objectives:
-- "Providing a step by step demonstration on where to find Helium Data Exporter on KnowPulse as well as how to download and install Helium Pedigree Visualization Framework to your local computer"
+- "Providing a step by step demonstration on where to find Helium Data Exporter on KnowPulse as well as how to download and install Helium Pedigree Visualization Framework to your local computer."
 keypoints:
 - "Helium Exporter can only be seen after you login KnowPulse with your user account."
 
