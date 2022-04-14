@@ -6,7 +6,7 @@ root: .
 title: "How to use KnowPulse Helium Exporter to downnload pedigree and categorical data and for visualization using Helium Pedigree Visualization Framework"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to export raw phenotypic data and germplasm for visualization using Helium Pedigree Visualization Framework."
+short-purpose: "This lesson will show you how to export raw phenotypic data and germplasm from KnowPulse Helium Exporter for visualization using Helium Pedigree Visualization Framework."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
@@ -21,9 +21,9 @@ why: "This lesson is aiming to guide our pulse crop researchers use the Helium D
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to download and install Helium Pedigree Visulaization Framework in your computer"
-- "How to export and load raw phenotypic data and germplasm using Helium Data Exporter"
-- "How to visualize your pedigree and categorical data into Helium Pedigree Visualization Framework"
+- "How to download and install Helium Pedigree Visulaization Framework on your computer"
+- "How to export raw phenotypic data and germplasm using Helium Data Exporter"
+- "How to load and visualize your pedigree and categorical data into Helium Pedigree Visualization Framework"
 
 data-description: "Raw phenotypic data and Germplasm data."
 ---
