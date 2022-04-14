@@ -3,16 +3,15 @@ title: "How to export rawphenotypic data and germplasm using Helium Data Exporte
 teaching: 10
 exercises: 10
 questions:
-- "How to select an experiment and it's subsequent datails?"
-- "How to download both pedigree and categorical data?"
-- "How to load pedigree and catagorical data files into Helium Exporter?"
+- "How to select an experiment and it's subsequent datails from Helium Data Exporter?"
+- "How to download both pedigree and categorical data from Helium Data Exporter?"
+
 
 objectives:
 - "Providing a step by step guide showing users how to download a pedigree file and a categorical file from an experiment of interest from KnowPulse. "
 keypoints:
 - "Login KnowPulse with your user account before downloading any data."
 - "You can only download experimental data from your registered experiment."
-- "You need to always load in the pedigree file first, then the categorical file to overlay the information." 
 ---
 ## Select an experiment, germplasm, and trait
 
@@ -37,16 +36,5 @@ Pedigree and categorical data from your registered experiment(s) can be download
 Helium from there will return two files for you. One is for pedigree data, the other is for categorical data. It may take the exporter a few seconds to generate the files for you. Those two files can be saved onto your local computer, followed by loaded to Helium for visualization.
 
 ![Screenshot of main code listing](../fig/helium-exporter-3.png)
-
-
-## Load your data into Helium Exporter
-
-1. Open the Helium Exporter from your local computer. 
-
-2. First, we want to upload the downloaded pedigree data in your local computer into Helium Exporter from the Overview Panel for visualization.
-![Screenshot of main code listing](../fig/helium-exporter-5.png)
-
-3. Then, let us repeat the same step with categorical data by loading the file to see it's traits.
-![Screenshot of main code listing](../fig/helium-exporter-6.png)
 
 
