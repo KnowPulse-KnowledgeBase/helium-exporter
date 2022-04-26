@@ -15,10 +15,19 @@ keypoints:
 ---
 ## Select an experiment, germplasm, and trait
 
-Pedigree and categorical data from your registered experiment(s) can be downloaded from [Helium Exporter module](https://knowpulse.usask.ca/helium-exporter)(requires login to access).
+You can export pedigree and categorical data using Helium Data Exporter for visualization using Helium in the following steps.
 
+Please note that you can only export data from experiments that you have permission to. Other experiments that you wish to download data from can be arranged by contacting KnowPulse.
 
-1. Select an experiment of your interest from the **Experiment** selector. (You have to be the user of an experiment before you can access any data under it, talk to us if you have any permission issue).
+This guide assumes that you have obtained a copy of Helium that matches your operating system and that you have correctly installed the software in your computer. Please see Episode 1 (Helium setup guide).
+
+### Step 1 
+
+Select an experiment of interest from the Experiment selector dropdown field.Experiments shown in this field are only the experiments assigned to your account in KnowPulse. Please contact us to gain permission to other experiments available in KnowPulse.
+
+When an experiment is selected, germplasm and trait fields repopulate with experiment-specific germplasm and trait options that you can select.
+
+### Step 2
  
 2. Then choose the germplasm of your interest from **Germplasm/lines selector with search functionality**.  From here, on your left hand side, checkboxes allow you to choose the desired germplasm. Germplasm field supports an inline search for specific germplasm. In the below screenshot, for example, there are 50 germplasms available and we are insterested in 27 of them. On your right hand side, in the field control, you can either use **Search** to look up for specific germplasm from the field, or click on **All** to select the full dataset. 
 
