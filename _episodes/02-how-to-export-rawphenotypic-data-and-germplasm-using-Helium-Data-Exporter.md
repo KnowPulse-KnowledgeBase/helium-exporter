@@ -19,7 +19,7 @@ You can export pedigree and categorical data using Helium Data Exporter for visu
 
 Please note that you can only export data from experiments that you have permission to. Other experiments that you wish to download data from can be arranged by contacting KnowPulse.
 
-This guide assumes that you have obtained a copy of Helium that matches your operating system and that you have correctly installed the software in your computer. Please see Episode 1 (Helium setup guide).
+This guide assumes that you have obtained a copy of Helium that matches your operating system and that you have correctly installed the software in your computer. **Please see Episode 1 (Helium setup guide)**.
 
 ### Step 1 
 Select an experiment of interest from the Experiment selector dropdown field. Experiments shown in this field are only the experiments assigned to your account in KnowPulse. Please contact us to gain permission to other experiments available in KnowPulse.
