@@ -13,7 +13,7 @@ keypoints:
 - "Login KnowPulse with your user account before downloading any data."
 - "You can only download experimental data from your registered experiment."
 ---
-## Select an experiment, germplasm, and trait
+## Select an experiment, germplasm, and trait (need a new title here)
 
 You can export pedigree and categorical data using Helium Data Exporter for visualization using Helium in the following steps.
 
@@ -32,7 +32,7 @@ Select or deselect GERMPLASM by clicking the checkbox for each option. Use inlin
 ### Step 3
 Select or deselect TRAIT by clicking the checkbox for each option. Use inline field controls to search specific option or to select/deselect all options.
 
-#### Example 
+### Example 
 The screenshot of Helium Data Exporter form field elements showing 50 germplasms available with the 27 out 50 lines selected (checked). On the right hand side of each field, are field controls search and select/deselect all checkbox. You can use **Search** to look up for specific germplasm from the field and click on **All** to select the full dataset.
 
 ![Screenshot of main code listing](../fig/helium-exporter-11.png)
@@ -50,4 +50,3 @@ Helim Data Exporter will generate two tab-separated-value files namely, **pedigr
 ![Screenshot of main code listing](../fig/helium-exporter-3.png)
 
 We will talk more visualization details in the next episode.
-
