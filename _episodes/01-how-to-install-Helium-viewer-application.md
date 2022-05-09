@@ -26,6 +26,8 @@ you through the process of installing Helium (short for Helium Pedigree Visualiz
 
 Please note for Mac OS user that your system will notify you upon installation about potential safety issue since Helium is not obtained through Apple store. This can be bypassed by pressing CTR key when clicking Open button (install) when prompted.
 
+Below image is the top section of Helium Data Exporter interface showing a brief summary of Helium Pedigree Visualization and a graphical quick step by step guide on how to visualize pedigree and categorical data using Helium. 
+
 ![Screenshot of main code listing](../fig/helium-exporter-10.png)
 
 
