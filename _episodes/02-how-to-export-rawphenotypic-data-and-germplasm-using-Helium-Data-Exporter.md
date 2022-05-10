@@ -49,4 +49,4 @@ Helim Data Exporter will generate two tab-separated-value files namely, **pedigr
 
 ![Screenshot of main code listing](../fig/helium-exporter-3.png)
 
-We will talk more visualization details in the next episode.
+We will talk more about visualization details in the next episode.
