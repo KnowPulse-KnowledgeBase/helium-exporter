@@ -3,10 +3,10 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "How to use KnowPulse Helium Exporter to downnload pedigree and categorical data and for visualization using Helium Pedigree Visualization Framework"
+title: "How to use KnowPulse Helium Data Exporter to downnload pedigree and categorical data and for visualization using Helium Pedigree Visualization Framework"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to export raw phenotypic data and germplasm from KnowPulse Helium Exporter for visualization using Helium Pedigree Visualization Framework."
+short-purpose: "This lesson will show you how to export raw phenotypic data and germplasm from KnowPulse Helium Data Exporter for visualization using Helium Pedigree Visualization Framework."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
