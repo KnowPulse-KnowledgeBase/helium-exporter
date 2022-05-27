@@ -13,7 +13,7 @@ keypoints:
 - "Login KnowPulse with your user account before downloading any data."
 - "You can only download experimental data from your registered experiment."
 ---
-## Select an experiment, germplasm, and trait (need a new title here)
+## Select an experiment, germplasm, and trait
 
 You can export pedigree and categorical data using Helium Data Exporter for visualization using Helium in the following steps.
 
