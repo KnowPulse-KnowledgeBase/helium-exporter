@@ -15,7 +15,7 @@ keypoints:
 
 ## Navigate to Helium Data Exporter
 
-When you land on [KnowPulse](https://knowpulse.usask.ca/) homepage, scroll down to the Tool section and click on the [HELIUM DATA EXPORTER](https://knowpulse.usask.ca/helium-exporter) to access the Helium Data Exporter (please see image below). Alternatively, you can navigate to the Helium Data Exporter page directly by typing the address **knowpulse.usask.ca/helium-exporter** onto your browser's address bar.
+When you land on [KnowPulse](https://knowpulse.usask.ca/) homepage, scroll down to the Tools section, then click on the [Helium Data Exporter link](https://knowpulse.usask.ca/helium-exporter) to access the Helium Data Exporter (please see image below). Alternatively, you can navigate to the Helium Data Exporter page directly by typing the address **knowpulse.usask.ca/helium-exporter** onto your browser's address bar.
 ![Screenshot of main code listing](../fig/helium-exporter-9.png)
 * Helium Data Exporter requires additional permission to export data. Please contact the KnowPulse Team if you have no access to this tool.
 ## Download and install Helium Pedigree Visualization Framework
