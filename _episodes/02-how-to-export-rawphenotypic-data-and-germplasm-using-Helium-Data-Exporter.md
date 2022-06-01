@@ -1,5 +1,5 @@
 ---
-title: "How to export rawphenotypic data and germplasm using Helium Data Exporter"
+title: "How to export raw phenotypic data and germplasm using Helium Data Exporter"
 teaching: 10
 exercises: 10
 questions:
