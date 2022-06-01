@@ -35,15 +35,14 @@ Select or deselect GERMPLASM by clicking the checkbox for each option. Use inlin
 ### Step 3
 Select or deselect TRAIT by clicking the checkbox for each option. Use inline field controls to search specific option or to select/deselect all options.
 
-### Example 
-The screenshot of Helium Data Exporter form field elements showing 50 germplasms available with the 27 out 50 lines selected (checked). On the right hand side of each field, are field controls search and select/deselect all checkbox. You can use **Search** to look up for specific germplasm from the field and click on **All** to select the full dataset.
-
 ### Step 4
 Select germplasm relationship type to return by checking Parental Relationships Only checkbox. This is field is unchecked by default and will return all germplasm relationships types (ie. line is a selection of, line is a cultivar of etc.) in addition to parental relationships (Male and Female parents of a line). By checking this option, only parental relationships of a line will be returned.
 
 ### Step 5 
 Click Download button to submit your request. The exporter will gather all datapoints that matched your criteria and will generate the required data files.
 
+### Example 
+The screenshot of Helium Data Exporter form field elements showing 50 germplasms available with the 27 out 50 lines selected (checked). On the right hand side of each field, are field controls search and select/deselect all checkbox. You can use **Search** to look up for specific germplasm from the field and click on **All** to select the full dataset.
 ![Screenshot of main code listing](../fig/helium-exporter-13.png)
 ## Download
 
