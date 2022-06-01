@@ -10,8 +10,7 @@ questions:
 objectives:
 - "Providing a step by step guide showing users how to download a pedigree file and a categorical file from an experiment of interest from KnowPulse."
 keypoints:
-- "Login KnowPulse with your user account before downloading any data."
-- "You can only download experimental data from your registered experiment."
+- "Login KnowPulse with your user account before downloading any data, you can only download experimental data from your registered experiment."
 ---
 ## Select an experiment, germplasm, and trait
 
