@@ -43,6 +43,7 @@ Click Download button to submit your request. The exporter will gather all datap
 
 ### Example 
 The screenshot of Helium Data Exporter form field elements showing 50 germplasms available with the 27 out 50 lines selected (checked). On the right hand side of each field, are field controls search and select/deselect all checkbox. You can use **Search** to look up for specific germplasm from the field and click on **All** to select the full dataset.
+
 ![Screenshot of main code listing](../fig/helium-exporter-13.png)
 ## Download
 
