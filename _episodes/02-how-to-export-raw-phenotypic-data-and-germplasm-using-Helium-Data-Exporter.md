@@ -3,7 +3,7 @@ title: "How to export raw phenotypic data and germplasm using Helium Data Export
 teaching: 10
 exercises: 10
 questions:
-- "How to select an experiment and it's subsequent datails from Helium Data Exporter?"
+- "How to select an experiment and its subsequent datails from Helium Data Exporter?"
 - "How to download both pedigree and categorical data from Helium Data Exporter?"
 
 
@@ -11,6 +11,8 @@ objectives:
 - "Providing a step by step guide showing users how to download a pedigree file and a categorical file from an experiment of interest from KnowPulse."
 keypoints:
 - "Login KnowPulse with your user account before downloading any data, you can only download experimental data from your registered experiment."
+- "Follow the 5 steps to specify which pedigree and its corresponding raw phenotypic data to download."
+- "The download page provides 2 separate files with the .helium extension."
 ---
 ## Select an experiment, germplasm, and trait
 
@@ -44,7 +46,7 @@ Click Download button to submit your request. The exporter will gather all datap
 
 ## Download
 
-Helim Data Exporter will generate two tab-separated-value files namely, **pedigree data file** and **categorical data file**. Each data file will have **.helium** extension to correspond the file to Helium Pedigree Visualization program in your computer. Both files are generated simultaneously with progress being reported to user by a graphical progress bar. These two data files can be saved when enabled onto your local computer and can be loaded to Helium for visualization.
+Helium Data Exporter will generate two tab-separated-value files namely, **pedigree data file** and **categorical data file**. Each data file will have **.helium** extension to correspond the file to Helium Pedigree Visualization program in your computer. Both files are generated simultaneously with progress being reported to user by a graphical progress bar. These two data files can be saved when enabled onto your local computer and can be loaded to Helium for visualization.
 
 ![Screenshot of main code listing](../fig/helium-exporter-3.png)
 
